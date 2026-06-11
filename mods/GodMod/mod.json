@@ -6,8 +6,8 @@
     "dice": [
         {
             "ide": "100xmult",
-            "rarity": 2,
-            "prio": 10,
+            "rarity": 1,
+            "prio": 20,
             "sprite": "sprites/test_die.png",
             "faces": [
                 {"value": 100},
@@ -25,8 +25,8 @@
     "rings": [
         {
             "ide": "test_ring",
-            "rarity": 2,
-            "prio": 10,
+            "rarity": 1,
+            "prio": 20,
             "func": "mid",
             "sprite_small": "sprites/test_ring_small.png",
             "sprite_big": "sprites/test_ring_big.png",
